@@ -1,5 +1,6 @@
 MIT License
 
+Copyright (c) 2023 Manoa Andriamirado
 Copyright (c) 2023 Pascal Michaillat  
 Copyright (c) 2020-2022 adityatelange  
 Copyright (c) 2018 nanxiaobei  

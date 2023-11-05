@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Prof. Name
+baseURL: "https://andriamirado.org" 
+title: Manoa Andriamirado
 paginate: 20
 theme: PaperMod
 
@@ -11,23 +11,16 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: papers/
+        - name: Publications
+          url: publications/
           weight: 1
-        - name: Courses
-          url: courses/
+        - name: Projects
+          url: projects/
           weight: 2
-        - name: Data
-          url: data/
-          weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
-    author: Name
+    description: "I'm a 5th year Ph.D. student in experimental particle physics at Illinois institute of Technology."
+    author: Manoa Andriamirado
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -50,21 +43,30 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          title: Manoa Andriamirado
+          subtitle: "Hello! Welcome to my website!
+          
+            <br> <br>
+            My name is Manoa Andriamirado, a 5th year Ph.D. student in experimental particle physics at the  Illinois Institute
+            of Technology. I am working at the PROSPECT reactor antineutrino experiment under the supervision of Prof. Bryce Littlejohn.
+    
+            <br> <br>
+            My current research expertise gravitates around sterile neutrinos and nuclear physics. Specifically, I use inverse 
+            beta decay interactions from antineutrinos originating at a research nuclear reactor as a probe for a potential 
+            fourth neutrino flavor, called the sterile neutrino. Sterile neutrinos in the eV$^2$ mass splitting range have been
+            hypothesized as a possible cause of a phenomenon known as Reactor Antineutrino Anomaly (RAA), which consists of a 
+            disagreement between measurement and the prediction of the antineutrino flux from reactors. More generally, 
+            reactor-based experiments are the best existing probes of electron neutrino disappearance and are thus an essential
+            component in a global effort to understand anomalous short-baseline neutrino measurements."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Manoa Andriamirado
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
+            - name: Publications
+              url: publications/
+            - name: Projects
+              url: projects/
             - name: Tags
               url: tags/
             - name: Archive
@@ -73,21 +75,11 @@ consequat."
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: mailto:manoa.andriamirado@gmail.com
+        - name: INSPIRES-HEP
+          url: https://inspirehep.net/authors/1684084
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://github.com/mandri97
 
     assets:
         disableHLJS: true
@@ -96,7 +88,7 @@ consequat."
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "M. Andriamirado"
       icon: favicon.ico
       iconHeight: 18
 
