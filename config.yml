@@ -47,15 +47,15 @@ params:
           subtitle: "Hello! Welcome to my website!
           
             <br> <br>
-            I'm Manoa Andriamirado, a 5th year Ph.D. student in experimental particle physics at the  Illinois Institute
-            of Technology. I am working at the PROSPECT reactor antineutrino experiment under the supervision of Prof. Bryce Littlejohn.
+            I'm Manoa Andriamirado, a 5th year Ph.D. student in experimental particle physics at the Illinois Institute
+            of Technology. I am working on the PROSPECT reactor antineutrino experiment under the supervision of Prof. Bryce Littlejohn.
     
             <br> <br>
             My current research expertise gravitates around sterile neutrinos and nuclear physics. Specifically, I use inverse 
             beta decay interactions from antineutrinos originating at a research nuclear reactor as a probe for a potential 
-            fourth neutrino flavor, called the sterile neutrino. Sterile neutrinos in the eV$^2$ mass splitting range have been
+            fourth neutrino flavor, called sterile neutrino. Sterile neutrinos in the eV$^2$ mass splitting range have been
             hypothesized as a possible cause of a phenomenon known as Reactor Antineutrino Anomaly (RAA), which consists of a 
-            disagreement between measurement and the prediction of the antineutrino flux from reactors. More generally, 
+            disagreement between measurement and prediction of the antineutrino flux from reactors. More generally, 
             reactor-based experiments are the best existing probes of electron neutrino disappearance and are thus an essential
             component in a global effort to understand anomalous short-baseline neutrino measurements."
           imageUrl: "picture.jpeg"
