@@ -14,9 +14,9 @@ menu:
         - name: Publications
           url: publications/
           weight: 1
-        - name: Projects
-          url: projects/
-          weight: 2
+        #- name: Projects
+        #  url: projects/
+        #  weight: 2
 
 params:
     description: "I'm a 5th year Ph.D. student in experimental particle physics at Illinois institute of Technology."
@@ -65,8 +65,8 @@ params:
           buttons:
             - name: Publications
               url: publications/
-            - name: Projects
-              url: projects/
+            #- name: Projects
+            #  url: projects/
             - name: Tags
               url: tags/
             - name: Archive
